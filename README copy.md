@@ -4,8 +4,8 @@ howdy
 ## Sub
 ### Sub Sub 
 * bul
- * shit
-=======
+** shit
+---
 - [Galvanometer.Laser System](#galvanometerlaser-system)
   * [Introduction](#introduction)
   * [Command Line Interface](#command-line-interface)
