@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # PBF_Test
 howdy
 # Header 
 ## Sub
 ### Sub Sub 
-*1
-	*2
+* bul
+ * shit
 =======
 - [Galvanometer.Laser System](#galvanometerlaser-system)
   * [Introduction](#introduction)
